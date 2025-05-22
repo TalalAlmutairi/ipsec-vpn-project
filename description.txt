@@ -1,0 +1,5 @@
+This project simulates an intelligent network slicing security model using federated learning.
+The goal is to detect anomalies across distributed network slices without exposing raw data.
+
+The simulation trains local models independently and aggregates them centrally to mimic
+federated learning behavior in a simplified environment.
